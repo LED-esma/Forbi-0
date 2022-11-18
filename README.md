@@ -12,7 +12,7 @@ Apart of FRC - 5430
 <p> Will make a passion project soon </p>
 
 <img src="https://media.discordapp.net/attachments/722828903458275408/1043011710962909244/dino.gif" alt="dinosaurdanceing" style="width:164px;height:240px;">
-
+<small> epic dinoh </small>
 
 <!---
 Forbi-0/Forbi-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
