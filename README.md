@@ -1,4 +1,4 @@
-<body style="background-color:powderblue;">
+<body>
 
 <h1 style="font-family:sono;">Me</h1>
 
