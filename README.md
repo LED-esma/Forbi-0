@@ -9,6 +9,7 @@ Contact me --> ddususjd@gmail.com
 
 
 Apart of FRC - 5430
+<p> Will make a passion project soon </p>
 
 
 <!---
