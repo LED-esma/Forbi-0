@@ -9,7 +9,6 @@ Contact me --> ddususjd@gmail.com
 
 
 Apart of FRC - 5430
-<p> Will make a passion project soon </p>
 
 <img src="https://media.discordapp.net/attachments/722828903458275408/1043011710962909244/dino.gif" alt="dinosaurdanceing" style="width:164px;height:240px;">
 <sub> epic dinoh </sub>
