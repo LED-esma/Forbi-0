@@ -8,11 +8,10 @@
 
 
 ## 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=LED-esma&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=LED-esma&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LED-esma&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-
+![LED-esma's Stats](https://github-readme-stats.vercel.app/api?username=LED-esma&theme=vue&show_icons=true&hide_border=false&count_private=true)
+![LED-esma's Streak](https://github-readme-streak-stats.herokuapp.com/?user=LED-esma&theme=vue&hide_border=false)
+![LED-esma's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LED-esma&theme=vue&show_icons=true&hide_border=false&layout=compact)
 
 <!---
 Forbi-0/Forbi-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
