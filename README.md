@@ -7,11 +7,12 @@
 <p> I like computers </p>
 
 
+## 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=LED-esma&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=LED-esma&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LED-esma&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-Apart of FRC - 5430
 
-<img src="https://media.discordapp.net/attachments/722828903458275408/1043011710962909244/dino.gif" alt="dinosaurdanceing" style="width:164px;height:240px;">
-<sub> epic dinoh </sub>
 
 <!---
 Forbi-0/Forbi-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
